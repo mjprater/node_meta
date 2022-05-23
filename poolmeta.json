@@ -1,7 +1,7 @@
 {
-  "name": "Kumojoy",
-  "ticker": "KUMOJ",
-  "description": "Kumojoy Test Pool",
+  "name": "Kumojoy_testnet",
+  "ticker": "KUMOT",
+  "description": "Kumojoy Testnet Pool",
   "homepage": "http://www.kumojoy.com",
-  "nonce": "1653269287"
- }
+  "nonce": "1653271571"
+}
